@@ -15,7 +15,7 @@ int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLi
 	volatile LPBYTE pbCryptedImage = (LPBYTE) 0xDEADC0DE;
 	volatile DWORD dwImageSize = 0xDEADFADE;
 	LPBYTE pbMemoryImage = NULL;
-    TCHAR szFilePath[MAX_PATH];
+    	TCHAR szFilePath[MAX_PATH];
 
 	/* Antiemulation loop */
 	for (int i = 0; i < 500000; i++)
