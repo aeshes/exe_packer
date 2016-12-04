@@ -1,4 +1,4 @@
-This is PE-packer for protestion from signature and bihaviour analysis.
+This is PE-packer for protection from signature and bihaviour analysis.
 
 #Stub
 Runtime decriptor. Decrypts payload in memory and runs it restartig its own process (RunPE method, process injecting).
