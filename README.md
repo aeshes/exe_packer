@@ -1,7 +1,7 @@
 This is PE-packer for protection from signature and bihaviour analysis.
 
 #Stub
-Runtime decriptor. Decrypts payload in memory and runs it restartig its own process (RunPE method, process injecting).
+Runtime decriptor. Decrypts payload in memory and runs it restarting its own process (RunPE method, process injecting).
 
 #Builder
 Covers payload with protection. Usage: builder.exe payload.exe.
