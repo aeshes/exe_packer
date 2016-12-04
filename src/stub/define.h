@@ -1,0 +1,3 @@
+#define BLOCK_SIZE	8
+
+unsigned int key[4] = { 0xD5C3, 0xE8D9, 0xFF27, 0xA81E };
